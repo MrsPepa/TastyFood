@@ -20,8 +20,8 @@
   .side-collapse.in {
     width:0;
     }
-}    
-    
+}
+
 .navbar-color{
   background-color: teal;
 }
@@ -36,13 +36,6 @@
   margin-left: auto;
   margin-right: auto;
 }
-
-.info-container{
-
-    border-style: solid;
-    border-width: 1px;
-}
-
 
 
 
