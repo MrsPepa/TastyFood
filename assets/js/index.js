@@ -116,7 +116,6 @@ $('#inputSearch').click(function(){
 });
 
   });*/
-/*
 
 $(document).ready(function(){
   $('#signUp').hide();
@@ -125,4 +124,3 @@ $(document).ready(function(){
     $('#welcome').hide();
   })
 });
-*/
